@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+This is a MERN Stack App. in this ecomeerce website I used Express, mongodb, nodejs and reactjs.
+Although this is not a final version but this is still working and creating a new user. Register user in mongodb database.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
